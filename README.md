@@ -1,6 +1,8 @@
 # Link Browser
 
-Link Browser is a minimalist Android application designed to open web links without appearing in the app launcher.
+Link Browser is an ultra minimalistic Android app. It just opens web links without a normal browser interface. You won't find it in your app drawer; it only pops up when you tap a link from another app.
+
+I made this app for digital detox. If you've ditched your main browser, but still need to open a link now and then (like for an app login or a chat message), this tool lets you do that without the distraction of a full browser.
 
 ## Building
 
