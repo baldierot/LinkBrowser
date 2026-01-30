@@ -20,6 +20,9 @@ public class MainActivity extends Activity {
         
         webSettings.setJavaScriptEnabled(true);
         webSettings.setDomStorageEnabled(true);
+        webSettings.setSupportZoom(true);
+        webSettings.setBuiltInZoomControls(true);
+        webSettings.setDisplayZoomControls(false);
         
         webView.setWebViewClient(new WebViewClient());
 
