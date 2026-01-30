@@ -5,6 +5,7 @@ build/
 *.aab
 *.jar
 *.keystore
+!app/debug.keystore
 local.properties
 .idea/
 .DS_Store
